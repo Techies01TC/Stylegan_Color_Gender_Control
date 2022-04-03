@@ -5,7 +5,7 @@ In  this repo we have wroked on official pytorch repo <a href="https://github.co
 
 -Download the <a href="https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl" target="_blank">Pre-Trained</a> pickle file from online drive. and place the file inside repo folder.
 
--Open gender_color.py and select the required Olor seeds for selecting ethinicity. The reult will be with two faces with opposite genders
+-Open gender_color.py and select the required Row seeds for selecting ethinicity. The reult will be with two faces with opposite genders
 
 #Row Seeds for selecting Ethiniciy:
 
