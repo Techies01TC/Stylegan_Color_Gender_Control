@@ -259,12 +259,14 @@ if __name__ == "__main__":
     #seed_num=647513872
     print(f'Seed Num:{seed_num}')
     #row_seeds=[85,100,75,458,1500]
+    ############# CHANGE ROW SEED NUMBER FROM HERE FOR CHANGING ETHINICITY ########################################################
     row_seeds=[75]
     #458-White with Blue eyes
     #75-Black (African)
     #85-white with brown hair
     #100-Asian (South Asian)
     #1500-White with dark complaxion
+    ############################################################################################################################
     #Random seeds
     col_seeds=[seed_num]
     #col_seeds=[55,821,1789,293]
