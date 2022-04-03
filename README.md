@@ -7,7 +7,7 @@ In  this repo we have wroked on official pytorch repo <a href="https://github.co
 
 -Open gender_color.py and select the required Row seed for selecting ethinicity. The two images with opposite genders are generated as final output.
 
-#Row Seeds for selecting Ethiniciy:
+# Row Seeds for selecting Ethiniciy:
 
 458-White with Blue eyes
 
