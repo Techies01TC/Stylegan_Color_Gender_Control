@@ -1,9 +1,9 @@
 # Stylegan Color and Gender Control
 In  this repo we have wroked on official pytorch repo <a href="https://github.com/NVlabs/stylegan2-ada-pytorch.git" target="_blank">stylegan2-ada-pytorch</a> to control gender and color simultanoeusly for generating faces.
 # Use
--Clone git hub repo in your drive
+-Clone git hub repo in your local drive
 
--Download the <a href="https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl" target="_blank">Pre-Trained</a> pickle file from drive. and place the file inside repo folder.
+-Download the <a href="https://nvlabs-fi-cdn.nvidia.com/stylegan2-ada-pytorch/pretrained/ffhq.pkl" target="_blank">Pre-Trained</a> pickle file from online drive. and place the file inside repo folder.
 
 -Open gender_color.py and select the required Olor seeds for selecting ethinicity. The reult will be with two faces with opposite genders
 
